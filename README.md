@@ -12,3 +12,8 @@ This project aims to detect lung cancer based on patient data using machine lear
 
 5.Scikit-learn - Machine learning modeling and evaluation
 
+
+# Clone the repository:
+git clone https://github.com/your-username/lung-cancer-detection-ml.git
+cd lung-cancer-detection-ml
+
